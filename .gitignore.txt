@@ -1,0 +1,2 @@
+records/*
+Assets/Library/loggers/dir_Log/*
